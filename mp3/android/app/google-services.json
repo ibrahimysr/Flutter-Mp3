@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "168309487193",
+    "project_id": "mp3calar-acf3b",
+    "storage_bucket": "mp3calar-acf3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168309487193:android:c9f2941ebec7c5410f6348",
+        "android_client_info": {
+          "package_name": "com.example.mp3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "168309487193-4ijigje6isl62h33j19ckvi4f307n8sj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXfC2nb3TD8r2ftx7BZdrcfTUBpc5LEDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "168309487193-4ijigje6isl62h33j19ckvi4f307n8sj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
